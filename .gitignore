@@ -1,0 +1,5 @@
+.vercel
+keys
+node_modules
+uploads
+.env
